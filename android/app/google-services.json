@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827024059361",
+    "firebase_url": "https://flash-chat-a2243.firebaseio.com",
+    "project_id": "flash-chat-a2243",
+    "storage_bucket": "flash-chat-a2243.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827024059361:android:b6e9d2ce8e1eab257440a0",
+        "android_client_info": {
+          "package_name": "co.yehiasalah.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827024059361-5qn96favb7r5u77f0mokg7g36lksfn2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrRrvA_ibqRN2lidPLpXURFA_-WM3XE0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827024059361-5qn96favb7r5u77f0mokg7g36lksfn2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
